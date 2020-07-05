@@ -16,3 +16,7 @@
    
    -HTML5/Canvas;
    
+   
+   
+   ## 🖼 LAYOUT:
+   ![Layout Witch Game](/imagens/cenario/layout.png)
