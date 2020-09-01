@@ -1,15 +1,15 @@
 # As Aventuras de HIPSTA
 
-## 🔖 DESCRIÇÃO:
-   🕹️ Jogo 2D criado durante a imersãoGameDev realizada pela Alura utilizando conhecimentos de java Script, CSS e HTML. 
+## 🔖 Description:
+   🕹️ 2D game created during the GameDev immersion carried out by Alura using knowledge of Java Script, CSS and HTML. 
    
-   Ainda vou implementar mudanças,mas, a estrutura básica já está completa.
+   I will still implement changes, but the basic structure is already complete.
    
-  💻 link para o jogo: https://editor.p5js.org/phslima/full/FPeGvVDga 
+  💻 link to the game: https://editor.p5js.org/phslima/full/FPeGvVDga 
    
    
    
-# TECNOLOGIAS ESTUDADAS:
+# TECHNOLOGIES STUDIED:
    -JavaScript;
    
    -CSS;
