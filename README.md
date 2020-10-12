@@ -5,11 +5,11 @@
    
    I will still implement changes, but the basic structure is already complete.
    
-  💻 link to the game: https://editor.p5js.org/phslima/full/FPeGvVDga 
+   #### Want to play? [click here](https://editor.p5js.org/phslima/full/FPeGvVDga) 
    
    
    
-# TECHNOLOGIES STUDIED:
+# 💻 TECHNOLOGIES STUDIED:
    -JavaScript;
    
    -CSS;
